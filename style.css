@@ -24,3 +24,9 @@ canvas {
     background-color:floralwhite;
 }
 
+.ibox {
+    border:solid 3px #0D47A1;
+    background-color:#BBDEFB;
+    width:200px;
+    margin-left:30px;
+    }
